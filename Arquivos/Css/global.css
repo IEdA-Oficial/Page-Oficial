@@ -25,6 +25,8 @@ nav{
     padding: 10px 0;
     width: auto;
     height: 68px;
+    display: flex;
+    justify-content: space-between;
 }
 footer{
     background-color: #e6e6e6;
